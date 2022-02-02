@@ -23,6 +23,10 @@ Bibliotecas utilizadas:
 - math;
 - statistics (para cálculo de desvio padrão);
 
+As bibliotecas podem ser importadas executando o comando abaixo no terminal:
+
+pip install -r requirements.txt
+
 __________________________
 
 O código está programado para cálculo de vol anualizada de janela móvel de 90 dias, que é
